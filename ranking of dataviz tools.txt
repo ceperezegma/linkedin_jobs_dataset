@@ -1,0 +1,7 @@
+Tool	Number of job posts
+Power BI	430
+Zoho Analytics	278
+Looker	152
+Tableau	139
+Domo	83
+Qlik Sense	77
