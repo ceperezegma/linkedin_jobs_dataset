@@ -1,0 +1,10 @@
+Ionic	2
+React Native	24
+Flutter	24
+PhoneGap OR Cordova	0
+Xamarin	9
+NativeScript	0
+Kendo UI	1
+Framework7	0
+Aurelia	0
+Onsen UI	0
