@@ -1,0 +1,3 @@
+Operating system	Job posts
+Android	107
+iOS	36
