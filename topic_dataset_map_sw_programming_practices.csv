@@ -1,0 +1,91 @@
+city,state,country,domain_driven_design,refactoring,mob_programming,clean_code,solid_principles,test_driven_development,pair_programming
+Alpharetta,GA,US,0,0,0,0,0,3,0
+Anchorage,AK,US,0,0,0,0,1,0,0
+Atlanta,GA,US,0,1,0,0,0,3,2
+Austin,TX,US,0,0,0,0,1,4,0
+Baltimore,MD,US,0,1,0,0,0,0,0
+Basking Ridge,NJ,US,0,0,0,0,0,1,0
+Beaverton,OR,US,0,1,0,1,0,0,0
+Bellevue,WA,US,0,0,0,0,0,2,0
+Berkeley Heights,NJ,US,2,0,0,0,0,16,0
+Boise,ID,US,0,1,0,0,1,0,0
+Boston,MA,US,0,2,0,0,0,4,0
+Boulder,CO,US,0,0,0,2,0,0,0
+Burlington,MA,US,0,0,0,0,0,0,1
+Canonsburg,PA,US,0,0,0,0,0,1,0
+Charleston,SC,US,0,1,0,0,0,0,0
+Charleston,WV,US,0,1,0,0,0,0,0
+Charlotte,NC,US,0,1,0,0,1,3,1
+Chelmsford,MA,US,0,3,0,0,0,1,0
+Chesapeake,VA,US,0,0,0,0,0,2,0
+Cheyenne,WY,US,0,0,0,0,1,0,0
+Chicago,IL,US,0,1,0,0,1,5,1
+College Station,TX,US,0,0,0,0,0,1,0
+Columbus,OH,US,0,0,0,0,2,0,0
+Cupertino,CA,US,0,0,0,0,0,2,1
+Dallas,TX,US,0,2,0,0,0,10,1
+Denver,CO,US,0,2,0,0,1,1,0
+Des Moines,IA,US,0,1,0,0,1,0,0
+Detroit,MI,US,0,0,0,0,1,1,0
+Eagle,ID,US,0,1,0,0,0,1,0
+Elkhart County,IN,US,0,0,0,0,0,1,0
+Fargo,ND,US,0,0,0,0,2,0,0
+Foster City,CA,US,3,0,0,0,0,0,0
+Gaithersburg,MD,US,5,0,0,0,0,1,0
+Hartford,CT,US,0,0,0,1,0,1,0
+Holmdel,NJ,US,0,0,0,0,0,1,0
+Honolulu,HI,US,0,0,0,0,1,0,0
+Houston,TX,US,0,0,0,0,1,0,0
+Indianapolis,IN,US,0,0,0,0,1,0,0
+Irving,TX,US,0,0,0,0,0,1,2
+Jersey City,NJ,US,0,0,0,0,0,7,0
+Kansas City,MO,US,0,1,0,0,0,0,0
+Knoxville,TN,US,1,0,0,0,0,1,0
+Las Vegas,NV,US,0,1,0,0,1,1,0
+Lisle,IL,US,0,0,0,0,0,1,0
+Little Rock,AR,US,0,0,0,0,1,0,0
+Livermore,CA,US,0,1,0,0,0,0,0
+Los Angeles,CA,US,0,0,0,0,0,7,0
+Manchester,NH,US,0,1,0,0,1,0,0
+Miami,FL,US,0,1,0,0,0,0,0
+Minneapolis,MN,US,0,1,0,0,0,0,0
+Morris Plains,NJ,US,3,0,0,0,0,0,0
+Mountain View,CA,US,1,0,0,0,0,14,2
+Mountain View,WY,US,0,0,0,0,0,0,1
+Naperville,IL,US,0,0,0,0,0,1,0
+New York,NY,US,0,1,0,1,0,1,1
+Newark,CA,US,0,0,0,1,0,1,0
+Oakbrook Terrace,IL,US,0,1,0,0,0,0,0
+Omaha,NE,US,0,0,0,0,1,1,0
+Ontario,CA,US,0,0,0,0,0,1,0
+Parsippany,NJ,US,0,0,0,0,0,2,0
+Philadelphia,PA,US,0,0,0,0,1,1,0
+Phoenix,AZ,US,0,0,0,0,0,1,0
+Plano,TX,US,0,1,0,0,0,1,0
+Pleasanton,CA,US,0,0,0,1,0,1,0
+Portland,NJ,US,0,1,0,0,1,1,0
+Portland,OR,US,0,0,0,0,0,2,0
+Raleigh,NC,US,0,0,0,0,1,2,0
+Redmond,WA,US,0,0,0,0,0,2,0
+Renton,WA,US,0,0,0,0,0,1,0
+Rochester,NY,US,0,0,0,0,0,1,0
+Salt Lake City,UT,US,0,1,0,0,1,0,0
+San Diego,CA,US,1,4,0,0,0,11,0
+San Francisco,CA,US,3,18,0,1,1,31,5
+San Jose,CA,US,0,0,0,2,0,8,0
+Santa Clara,CA,US,0,1,0,0,0,5,0
+Santa Monica,CA,US,0,4,0,0,0,0,0
+Seattle,WA,US,0,6,0,0,0,15,1
+Sioux Falls,SD,US,0,0,0,0,1,0,0
+Sunnyvale,CA,US,0,0,0,1,0,2,1
+Thousand Oaks,CA,US,1,0,0,0,0,1,0
+Virginia Beach,VA,US,0,0,0,0,1,0,0
+Waltham,MA,US,0,0,0,0,0,1,0
+Washington,DC,US,0,1,0,0,1,0,0
+Wayne,PA,US,0,0,0,0,0,1,0
+West Palm Beach,FL,US,0,1,0,0,0,0,1
+Westbrook,ME,US,0,0,0,0,0,1,1
+Westford,MA,US,0,0,0,0,0,1,0
+Wichita,KS,US,0,0,0,0,1,0,0
+Wilmington,DE,US,7,0,0,0,1,1,0
+Wilmington,MA,US,0,0,0,0,0,1,0
